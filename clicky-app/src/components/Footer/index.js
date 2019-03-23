@@ -5,8 +5,8 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="bottom">
-        Clicky Game! <img alt="react" src="assets/images/react.svg" />
-      </div>
+        Memory Match! | Repo  https://github.com/Mamoo2018
+         </div>
     </footer>
   );
 }
