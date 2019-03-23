@@ -41,3 +41,15 @@
     width: 40%;
   }
 }
+li.brand {
+  background-color: red;
+}
+
+li {
+  background-color: blue;
+}
+
+main.container {
+  background-image: url("1200px-Smirnoff.svg.png") ;
+  
+}
